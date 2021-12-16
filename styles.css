@@ -1,0 +1,16 @@
+div#main
+{max-width: 1000px;
+margin: 0 auto;
+}
+.chart {
+    width: 70%;
+  display: flex;
+  margin: 0 auto;}
+
+
+h1 {font-family: sans-serif;}
+p {font-family: sans-serif;}
+h2 {font-family: sans-serif;}
+
+body {background-color: #f0ffff;
+      padding-bottom: 30px;}
